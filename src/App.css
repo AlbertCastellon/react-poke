@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+#pokemon {
+  margin: 4px;
+}
+
+#card {
+  border: 2px solid #000;
+  margin-top: 10px;
+}
+
+#card p {
+  font-weight: bold;
+
+}
